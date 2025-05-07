@@ -1,6 +1,6 @@
 # USADeepDive
 
-A data dashboard exploring Syrian migration, employment, and naturalisation in Denmark (2008–2024), using public datasets from Statistics Denmark and JobIndats.dk
+A data dashboard exploring American migration, employment, and naturalisation in Denmark (2008–2024), using public datasets from Statistics Denmark and JobIndats.dk
 
 ## 📦 Data Sources
 
